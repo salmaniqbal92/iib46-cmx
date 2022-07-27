@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="field_3" label="field 3" language="en" table="x_727085_iib46_cmx_my_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>field_3</element>
+            <help/>
+            <hint/>
+            <label>field 3</label>
+            <language>en</language>
+            <name>x_727085_iib46_cmx_my_table</name>
+            <plural>field 3s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-27 22:51:41</sys_created_on>
+            <sys_id>7e0f7ecc2f0511108040ad2ef699b661</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>field 3</sys_name>
+            <sys_package display_value="iib46-cmx" source="x_727085_iib46_cmx">645d728c2f0511108040ad2ef699b6a7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="iib46-cmx">645d728c2f0511108040ad2ef699b6a7</sys_scope>
+            <sys_update_name>sys_documentation_x_727085_iib46_cmx_my_table_field_3_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-27 22:51:41</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

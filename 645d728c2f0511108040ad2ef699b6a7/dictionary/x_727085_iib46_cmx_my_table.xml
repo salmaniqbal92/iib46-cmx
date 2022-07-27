@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="My Table" max_length="40" name="x_727085_iib46_cmx_my_table" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="field 1" max_length="40" name="field_1" type="string"/>
+        <element label="field 2" max_length="40" name="field_2" type="boolean"/>
+        <element label="field 3" max_length="40" name="field_3" type="integer"/>
+    </element>
+</database>
